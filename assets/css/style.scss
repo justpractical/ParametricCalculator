@@ -3,3 +3,14 @@
 @import "{{ site.theme }}";
 
 #forkme_banner { display: none;}
+
+table {
+    border: none;
+}
+
+tr {
+  vertical-align: top;
+}
+td {
+  border: none;
+}
