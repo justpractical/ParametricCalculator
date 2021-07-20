@@ -16,13 +16,28 @@ The parametric calculator is designed for use in everyday situations where speed
 - Human readable numbers configurable with , or . separators e.g. 1,955,354.13213
 
 
+# Table Of Contents
+
+- [User Guide](#user-guide)
+  * [1. Top Bar](#1-the-top-bar)
+  * [2. Equatoin Bar](#2-the-equation-bar)
+  * [3. Result Panel](#3-the-result-panel)
+  * [4. Project Bar](#4-the-project-bar)
+  * [5. Project Tray](#5-the-project-tray)
+  * [6. Keypad](#6-the-keypad)
+  * [Tips & Tricks](#tips-and-tricks)
+
+- [Data Policy](#data-collection-and-retention-policy)
+
+
+
 # User Guide
 ![](https://justpractical.github.io/ParametricCalculator/assets/images/overview.png)
 
 
-1. The Top Bar 
+### 1. The Top Bar 
 
-![](https://justpractical.github.io/parametriccalculator/assets/images/topbar.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/topbar.png)
 
 Includes an indicator of which calculator you currently have selected in the highlight colour. If another calculator has a value in then its icon will appear filled in.  You can tap on a calculator icon to jump straight to it or swipe across on the results panel
 
@@ -234,7 +249,7 @@ When applying functions directly from the a hotkey, the function will automatica
 
 
 
-Tips And Tricks
+## Tips And Tricks
 
 You don't need to hit the close button on the various popups, just drag down from the top to close.
 
@@ -249,3 +264,7 @@ Hitting two operators one after the other will use the previous value
 | - | 5 + 15 + 15 - 15 |
 
 
+
+#  Data Collection and Retention Policy
+No data is collected from the Calculator app. All settings and calculation histories are stored locally on your device.
+Deleting the app will also delete all stored data
