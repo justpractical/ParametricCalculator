@@ -1,29 +1,6 @@
         
 ### Another Just Practical App
 
-<p class="c3">
-	<span class="c4"></span>
-</p>
-<h1 class="c35" id="h.gtgmlwdg5ewg">
-	<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 792.00px; height: 219.50px;">
-		<img alt="" src="images/image16.png" style="width: 792.00px; height: 219.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
-	</span>
-</h1>
-<h1 class="c35 c36" id="h.8bew47w9rekz">
-	<span class="c24"></span>
-</h1>
-<h1 class="c35" id="h.m9vzoiwm9arw">
-	<span class="c24">Parametric Calculator</span>
-</h1>
-<p class="c8">
-	<span class="c26">Another Just Practical App</span>
-</p>
-<p class="c3">
-	<span class="c4"></span>
-</p>
-<p class="c3">
-	<span class="c4"></span>
-</p>
 <p class="c8">
 	<span>The parametric calculator is designed for use in everyday situations where speed and ease of use is the most important thing. Half way through a calculation and need to find a new number, just swipe to the next calculator. Want to reuse a calculation you do often, just build it and save it with whatever name you like.</span>
 </p>
