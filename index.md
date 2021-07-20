@@ -17,17 +17,17 @@ The parametric calculator is designed for use in everyday situations where speed
 
 
 # User Guide
-![](https://justpractical.github.io/ParametricCalculator/images/overview.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/overview.png)
 
 
 1. The Top Bar 
 
-![](https://justpractical.github.io/parametriccalculator/images/topbar.png)
+![](https://justpractical.github.io/parametriccalculator/assets/images/topbar.png)
 
 Includes an indicator of which calculator you currently have selected in the highlight colour. If another calculator has a value in then its icon will appear filled in.  You can tap on a calculator icon to jump straight to it or swipe across on the results panel
 
 
-![](https://justpractical.github.io/ParametricCalculator/images/next_calculator.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/next_calculator.png)
 
 To the far right it is possible to see which angle units the calculator is set to, in the example case Radians. You can change the selection for the current calculator on the advanced operators keypad (swipe right). The default type when starting a new project can be set in preferences by tapping in the gear icon.
 
@@ -35,7 +35,7 @@ To the far right it is possible to see which angle units the calculator is set t
 ### 2. The Equation Bar
 shows the active equation. You can drag the equation bar along if the calculation becomes too long or tap on any of the parts of the equation to edit them. To position the cursor tap between two items. You can use the scroll slider to move the cursor position around. When the cursor is not at the end of the equation the characters will be more spread out making it easier to select a position
 
-![](https://justpractical.github.io/ParametricCalculator/images/move_cursor.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/move_cursor.png)
 
 
 Any errors in the equation will be marked in red. This may be a variable that does not have a value set or could be a missing part of the calculation logic, for example adding two plus operations would not make sense and as such would be shown as below.
@@ -49,7 +49,7 @@ When selecting a part of an equation you can only directly replace it with a sim
 
 In the case of a function, it will show you details of what variables are used in the equation. 
 
-![](https://justpractical.github.io/ParametricCalculator/images/function_variables.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/function_variables.png)
 
 Tapping on the variables will open up a list of all unset variables in the calculation to allow you to set them. Options will also be presented to
 
@@ -65,7 +65,7 @@ The delete key will delete the last number entered when inputting a new value, o
 ### 3 The Result Panel 
 Shows the result of the current calculation. If the calculation is not valid the result of the last valid calculation is shown in a dull colour. If you have set up a unit conversion, then the converted number will be shown in a smaller font below.
 
-![](https://justpractical.github.io/ParametricCalculator/images/copy_and_paste.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/copy_and_paste.png)
 
 You can copy a result by pressing and holding the result value. A popup will appear with options to copy / paste. Paste will only insert values if it is possible to do so. Note that pasting will extract all valid numbers, so will ignore for example currency symbols when copying from another app
 
@@ -74,7 +74,7 @@ You can copy a result by pressing and holding the result value. A popup will app
 If you need to show the number to someone else you can swipe up or down on the result and the number will be shown full screen. If you have a conversion set it will be shown in a duller colour underneath the main result value
 
 
-![](https://justpractical.github.io/ParametricCalculator/images/conversion_selector.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/conversion_selector.png)
 
 A conversion symbol is shown to one side of the result. you can tap here to change your conversion units. If a conversion is selected the type of conversion is shown on the top and bottom of the symbol and the converted result is shown in a smaller font below the result
 
@@ -88,7 +88,7 @@ From the conversion panel you can select different measurement types and select 
 
 The project bar lets you quickly change projects by tapping on the project name. This loads the project center where you can pick a different project. 
 
-![](https://justpractical.github.io/ParametricCalculator/images/projet_selector.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/projet_selector.png)
 
 You can search for a project using the search bar. If you enter the name of a project that does not exist yet you will be shown an option to create it
 
@@ -100,7 +100,7 @@ By date created
 Double tapping the search bar icon will reverse the sort order
 
 
-![](https://justpractical.github.io/ParametricCalculator/images/function_namer.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/function_namer.png)
 
 
 
@@ -116,7 +116,7 @@ The tray area gives access to saved functions and variables and gives another me
 
 Variables
 
-![](https://justpractical.github.io/ParametricCalculator/images/variables_in_equation.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/variables_in_equation.png)
 
 
 Variables allow you to build up a calculation using placeholder values. This can be useful if you are planning a build but are not sure of final dimensions. In the above calculation we can see that two variables are used one called “R” and the other “#circles”. R is highlighted in red as it does not have a value set.
@@ -132,7 +132,7 @@ To select a variable just tap it. A variable will only be added to the equation 
 
 To edit the value of a variable you can swipe left. Swiping right will delete it. On the edit page you can change its name, add a description and assign a value to it.
 
-![](https://justpractical.github.io/ParametricCalculator/images/edit_variable.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/edit_variable.png)
 
 
 
@@ -162,7 +162,7 @@ When selecting a function in this format you are given the option to expand or p
 Expanding will convert the function into the full equation, in the example this would become 
 
 
-![](https://justpractical.github.io/ParametricCalculator/images/variables_in_function.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/variables_in_function.png)
 
 
 
@@ -176,7 +176,7 @@ Expanding will convert the function into the full equation, in the example this 
 In parameterized format, the values used for the function can be passed as parameters. This allows you to use the function without needing to create the variables needed for it.
 For example in the image you could replace the placeholder values for the radius and height with actual values
 
-![](https://justpractical.github.io/ParametricCalculator/images/function_parameters.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/function_parameters.png)
 
 
 
@@ -188,7 +188,7 @@ You can swipe left and right on the keypad to get to the advanced operators (rig
 
 Tapping on the indicator takes you back to the home page (Number Entry)
 
-![](https://justpractical.github.io/ParametricCalculator/images/keypads.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/keypads.png)
 
 
 The key where the equals button would normally be is dynamic. It shows the next operation that you need to perform.  For example if you have an open set of brackets it will show you a close bracket. If you are entering parameters for a function that needs values entered, you will see both the , and the ] keys to either add more values or close the function.
@@ -226,7 +226,7 @@ The last keypad includes 9 user configurable keys. These can be assigned to any 
 When applying functions directly from the a hotkey, the function will automatically be inserted as parameterized without any variables inserted, just the placeholders
 
 
-![](https://justpractical.github.io/ParametricCalculator/images/hotkey_editor.png)
+![](https://justpractical.github.io/ParametricCalculator/assets/images/hotkey_editor.png)
 
 
 
